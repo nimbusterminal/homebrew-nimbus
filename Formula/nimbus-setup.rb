@@ -1,10 +1,10 @@
 class NimbusSetup < Formula
   desc "Génère un QR Code de configuration pour l'app iOS Nimbus"
   homepage "https://github.com/nimbusterminal/homebrew-nimbus"
-  url "https://github.com/nimbusterminal/homebrew-nimbus/releases/download/v1.0.2/nimbus-setup-1.0.2.tar.gz"
-  sha256 "6d44b6b8830b6cc53af0cbdde998dea12b132fd804885aae567f1b4bb61e2081"
+  url "https://github.com/nimbusterminal/homebrew-nimbus/releases/download/v1.0.3/nimbus-setup-1.0.3.tar.gz"
+  sha256 "345a3175adaf1f7d81f5f6061e05475b2118f47287c87dc0af08c973819e55f1"
   license "MIT"
-  version "1.0.2"
+  version "1.0.3"
 
   depends_on "python@3.14"
 
