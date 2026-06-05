@@ -1,10 +1,10 @@
 class NimbusSetup < Formula
   desc "QR Code de configuration + commande nimbus pour partage Mac/iPhone des sessions Claude"
   homepage "https://github.com/nimbusterminal/homebrew-nimbus"
-  url "https://github.com/nimbusterminal/homebrew-nimbus/releases/download/v1.1.0/nimbus-setup-1.1.0.tar.gz"
-  sha256 "edb4ca975827766493b6b50725eadff246ab80da733c56a3a4b3c3074f0cbd2d"
+  url "https://github.com/nimbusterminal/homebrew-nimbus/releases/download/v1.1.1/nimbus-setup-1.1.1.tar.gz"
+  sha256 "eeece43515bdbdb768ecb099fa9b9e17ff55632b9dac2bbfa5aae88fc2227d4a"
   license "MIT"
-  version "1.1.0"
+  version "1.1.1"
 
   depends_on "python@3.14"
   # dtach est utilisé par `nimbus claude` / `nimbus attach` pour partager les
